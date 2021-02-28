@@ -20,4 +20,4 @@ public class Exercicio01 {
 
 //Variaveis criadas: idade, anoNascimento
 //Dados digitados pelo usuário: 1995
-//Dados returnados pelo programa: 26
+//Dados retornados pelo programa: 26
