@@ -1,3 +1,4 @@
+package desvios;
 import java.util.Scanner;
 
 public class Exercicio06 {
